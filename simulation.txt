@@ -1,0 +1,95 @@
+Tower says: Baloon#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: JetPlane#J1(3) registered to weather tower.
+Tower says: Helicopter#H1(4) registered to weather tower.
+Tower says: Helicopter#H2(5) registered to weather tower.
+Tower says: Helicopter#H3(6) registered to weather tower.
+Tower says: Baloon#B3(7) registered to weather tower.
+Tower says: JetPlane#J2(8) registered to weather tower.
+Tower says: Helicopter#H4(9) registered to weather tower.
+Baloon#B1(1): The weather is becoming cooler.
+Baloon#B2(2): There was a sudden change in the weather.
+JetPlane#J1(3): I am accustomed to cold weather.
+Helicopter#H1(4): The weather is becoming cooler.
+Helicopter#H2(5): You seem to be a little under the weather.
+Helicopter#H3(6): I can't stand this hot weather.
+Baloon#B3(7): The weather is becoming cooler.
+JetPlane#J2(8): There was a sudden change in the weather.
+Helicopter#H4(9): Bad weather kept us from going out.
+Baloon#B1(1): I can't stand this hot weather.
+Baloon#B2(2): According to the weather forecast, it will clear up tomorrow.
+JetPlane#J1(3): You seem to be a little under the weather.
+Helicopter#H1(4): I'm sick of this hot weather.
+Helicopter#H2(5): The weather is becoming cooler.
+Helicopter#H3(6): You seem to be a little under the weather.
+Baloon#B3(7): The weather is becoming cooler.
+JetPlane#J2(8): There was a sudden change in the weather.
+Helicopter#H4(9): Bad weather kept us from going out.
+Baloon#B1(1): Bad weather kept us from going out.
+Baloon#B1(1) landing.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+Baloon#B2(2): I am accustomed to cold weather.
+JetPlane#J1(3): The weather is becoming cooler.
+Helicopter#H1(4): According to the weather forecast, it will clear up tomorrow.
+Helicopter#H1(4) landing.
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H2(5): According to the weather forecast, it will clear up tomorrow.
+Helicopter#H3(6): I can't stand this hot weather.
+Baloon#B3(7): The weather is becoming cooler.
+JetPlane#J2(8): I can't stand this hot weather.
+Helicopter#H4(9): There was a sudden change in the weather.
+Baloon#B2(2): Bad weather kept us from going out.
+Baloon#B2(2) landing.
+Tower says: Baloon#B2(2) unregistered from weather tower.
+JetPlane#J1(3): You seem to be a little under the weather.
+Helicopter#H2(5): According to the weather forecast, it will clear up tomorrow.
+Helicopter#H3(6): I can't stand this hot weather.
+Baloon#B3(7): I am accustomed to cold weather.
+Baloon#B3(7) landing.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+JetPlane#J2(8): Bad weather kept us from going out.
+Helicopter#H4(9): You seem to be a little under the weather.
+JetPlane#J1(3): Bad weather kept us from going out.
+Helicopter#H2(5): Bad weather kept us from going out.
+Helicopter#H2(5) landing.
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): The weather is becoming cooler.
+JetPlane#J2(8): You seem to be a little under the weather.
+Helicopter#H4(9): Bad weather kept us from going out.
+JetPlane#J1(3): There was a sudden change in the weather.
+Helicopter#H3(6): There was a sudden change in the weather.
+JetPlane#J2(8): I can't stand this hot weather.
+Helicopter#H4(9): I am accustomed to cold weather.
+JetPlane#J1(3): I'm sick of this hot weather.
+Helicopter#H3(6): I'm sick of this hot weather.
+JetPlane#J2(8): I am accustomed to cold weather.
+Helicopter#H4(9): I am accustomed to cold weather.
+Helicopter#H4(9) landing.
+Tower says: Helicopter#H4(9) unregistered from weather tower.
+JetPlane#J1(3): You seem to be a little under the weather.
+JetPlane#J1(3) landing.
+Tower says: JetPlane#J1(3) unregistered from weather tower.
+Helicopter#H3(6): According to the weather forecast, it will clear up tomorrow.
+JetPlane#J2(8): There was a sudden change in the weather.
+Helicopter#H3(6): According to the weather forecast, it will clear up tomorrow.
+JetPlane#J2(8): According to the weather forecast, it will clear up tomorrow.
+Helicopter#H3(6): I am accustomed to cold weather.
+JetPlane#J2(8): I am accustomed to cold weather.
+Helicopter#H3(6): I'm sick of this hot weather.
+JetPlane#J2(8): The weather is becoming cooler.
+Helicopter#H3(6): According to the weather forecast, it will clear up tomorrow.
+Helicopter#H3(6) landing.
+Tower says: Helicopter#H3(6) unregistered from weather tower.
+JetPlane#J2(8): I am accustomed to cold weather.
+JetPlane#J2(8): Bad weather kept us from going out.
+JetPlane#J2(8): You seem to be a little under the weather.
+JetPlane#J2(8): You seem to be a little under the weather.
+JetPlane#J2(8): You seem to be a little under the weather.
+JetPlane#J2(8): I am accustomed to cold weather.
+JetPlane#J2(8): I am accustomed to cold weather.
+JetPlane#J2(8): The weather is becoming cooler.
+JetPlane#J2(8): There was a sudden change in the weather.
+JetPlane#J2(8): The weather is becoming cooler.
+JetPlane#J2(8): You seem to be a little under the weather.
+JetPlane#J2(8) landing.
+Tower says: JetPlane#J2(8) unregistered from weather tower.
